@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1585429897 source:c:\users\rafa許desktop\c++ - studia\biblioteka\main.cpp
+	<iostream>
+	<cstring>
+	"biblio.h"
+	"osoba.h"
+
+1584721110 c:\users\rafa許desktop\c++ - studia\biblioteka\biblioteka.h
+
+1584738409 c:\users\rafa許desktop\c++ - studia\biblioteka\osoba.h
+
+1585429841 c:\users\rafa許desktop\c++ - studia\biblioteka\include\biblio.h
+	<iostream>
+
+1585429318 source:c:\users\rafa許desktop\c++ - studia\biblioteka\src\biblio.cpp
+	"biblio.h"
+	<cstring>
+
+1585428710 c:\users\rafa許desktop\c++ - studia\biblioteka\include\osoba.h
+	<iostream>
+
+1584809294 source:c:\users\rafa許desktop\c++ - studia\biblioteka\src\osoba.cpp
+	"osoba.h"
+	<cstring>
+
